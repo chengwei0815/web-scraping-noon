@@ -1,4 +1,4 @@
-Noon Jewelry Web Scraping: Product and Price Analysis Using Python
+# Noon Jewelry Web Scraping: Product and Price Analysis Using Python
 
 Noon is a prominent e-commerce platform based in the Middle East, providing a diverse range of products, including electronics, fashion, beauty, home, and kitchen items. This web scraping project focuses on the jewelry category, one of the extensive product categories offered by Noon. Through this project, users aim to gather valuable insights, track pricing trends, or extract specific information related to jewelry available on the Noon platform.
 
